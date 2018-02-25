@@ -18,6 +18,22 @@ int main()
         case 3:
             j = 21;
             break;
+        case 4:
+            j = 31;
+            break;
+        case 5:
+            j = 41;
+            break;
+        case 6:
+            j = 51;
+            break;
+        case 7:
+            j = 61;
+            break;
+        case 8:
+            j = 71;
+            break;
+        
         default:
             j = 1;
             break;
