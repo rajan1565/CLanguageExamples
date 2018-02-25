@@ -33,6 +33,9 @@ int main()
         case 8:
             j = 71;
             break;
+        case 9:
+            j = 81;
+            break;
         
         default:
             j = 1;
